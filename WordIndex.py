@@ -1,22 +1,11 @@
 #WordIndex.py
 #Name: Sara Salha
 #Date: 2/26/25
-#Assignment: Lab 6
+#Assignment: WordIndex.py
 
 def main():
   textFile = open("fish.txt", 'r')
-  lineCount = 0
-
-  for line in textFile:
-    lineCount += 1
-    words = line.split
-    print(words)
-
-    for word in words:
-      print(word)
-
-      for letter in word:
-        print(letter)
+  
   words = {} #create an empty dictionary
   
   
