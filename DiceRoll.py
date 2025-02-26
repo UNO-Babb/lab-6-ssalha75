@@ -1,7 +1,7 @@
 #DiceRoll.py
 #Name: Sara Salha
 #Date: 2/26/25
-#Assignment:Lab 6
+#Assignment: DiceRoll.py
 import random
 
 def main():
